@@ -2,7 +2,11 @@
 
 A high-voltage, sequentially fired **3-stage electromagnetic coil gun** controlled by an **Arduino Nano**. Each stage has its own capacitor bank and uses parallel **60N60 IGBTs** for high-current switching.
 
-(https://via.placeholder.com/800x450?text=Coil+Gun+Assembly+Photo)  
+![Alt Text](images/IMG-20220714-WA0000.jpg)
+<img src="images/IMG-20220714-WA0000.jpg" width="300">
+
+![Alt Text](images/20220902_213838.jpg)
+
 
 
 ## Project Overview
