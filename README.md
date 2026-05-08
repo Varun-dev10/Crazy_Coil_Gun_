@@ -110,6 +110,13 @@ High dI/dt pulses can reset the Arduino. Recommended mitigations:
 
 **The 10k gate pull-downs are your last line of defense.**
 
+### Add changes to the code based on your requirment
+**[View the Main Script](coil_gun.ino)**
+
+### "NOTE"
+**WARNING:** This is a high-voltage experimental project. Use entirely at your own risk. The author assumes no liability for any damage, injury, or harm to persons or property.
+
+
 ---
 
 
