@@ -14,7 +14,7 @@ A high-voltage, sequentially fired **3-stage electromagnetic coil gun** controll
 
 This project is a fully programmable 3-stage coil gun that accelerates a ferromagnetic projectile using three electromagnetic coils fired in rapid succession. The Arduino Nano manages all critical functions including boost converter control, high-voltage monitoring, safety discharge, and precise sequential firing.
 
-(https://via.placeholder.com/800x300?text=3-Stage+Firing+Sequence+GIF)  
+
 
 
 ## Features
